@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Java<br>👯 I’m looking to collaborate on Development and Problem Solving<br>🤝 I’m looking for help with Java<br>🌱 I’m currently learning Java and Spring Boot<br>💬 Ask me about anything!<br>⚡ Fun fact, I love niche small details.
+🔭 I’m currently working on Java and Data Structures Algorithms<br>👯 I’m looking to collaborate on Development and Problem Solving<br>🤝 I’m looking for help with Java and backend<br>🌱 I’m currently learning Java and Spring Boot<br>💬 Ask me about anything!<br>⚡ Fun fact, I love niche small details.
 
 
 ## 🌐 Socials:
